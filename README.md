@@ -8,6 +8,8 @@ This web app requires user registration before any action to be done. This app e
 - Create a search function to filter database results.
 
 # How to Build database
+Firstly, install [Visual Studio](https://visualstudio.microsoft.com/).
+
 1. Open JokesWebApp.sln;
 2. Search for "Open Package Manager Console" (Ctrl + Q);
 3. Run these commands:
