@@ -1,4 +1,6 @@
 # JokesWebApp
+![JokesWebApp](./assets/preview.png)
+
 A web database app in ASP.NET using Visual Studio and the C# language.
 
 This web app requires user registration before any action to be done. This app employs:
